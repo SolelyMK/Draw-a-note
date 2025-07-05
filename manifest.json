@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "draw-a-note",
+    "version": "1.0",
+    "description": "This extension allows you to draw whatever you want on the canvas area",
+    "action": {
+        "default_title": "Click to view a popup",
+        "default_popup": "index.html",
+        "default_icon": {
+            "16": "/draw-a-note16.png",
+            "48": "/draw-a-note48.png",
+            "128": "/draw-a-note128.png"
+        }
+    },
+    "permissions": [
+        "storage"
+    ]
+}
