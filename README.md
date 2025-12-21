@@ -1,6 +1,7 @@
-This extension is in development state and will be updated further.
-It does not use any service workers, it only uses your local storage.
+## Web extension for drawing notes that will be saved between sessions ##
 
-In order to use it you must download the folder. You continue by going to your extension manager, turning on the dev mode and loading the unpacked version(your folder).
-
-**It's also worth mentioning that this is a chrome extension, which means that its work is guaranteed only in browsers with chromium engine.**
+## How to use ##
+Download the files or the zip folder
+Go to your extension manager
+Switch to dev mode
+Use 'load unpacked' (files) or 'load packed' (zip) option.
